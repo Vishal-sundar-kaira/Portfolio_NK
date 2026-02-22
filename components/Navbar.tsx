@@ -40,7 +40,7 @@ export default function Navbar() {
         {/* Name */}
         <a
   href="#hero"
-  className="font-semibold text-2xl cursor-pointer hover:opacity-80 transition"
+  className="font-semibold text-xl cursor-pointer hover:opacity-80 transition"
 >
   Nidhi Kadam
 </a>
