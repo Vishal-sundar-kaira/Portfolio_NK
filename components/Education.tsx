@@ -29,7 +29,7 @@ export default function Education() {
             {/* Card */}
             <div className="border border-gray-200 rounded-xl p-6 shadow-sm">
               <h3 className="text-2xl font-serif mb-1">
-                University of Pennsylvania
+                University of Chicago
               </h3>
               <p className="text-gray-600 mb-3">
                 School of Engineering and Applied Sciences
